@@ -5,7 +5,7 @@ require('dotenv').config();
 
 // Initialize Sequelize with database credentials
 const sequelize = new Sequelize(
-    'my_db',
+    'audiocard-db',
     process.env.DB_USERNAME,
     process.env.DB_PASSWORD,
     {
