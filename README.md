@@ -1,7 +1,7 @@
 # AudioCard
-
+Computer Science Capstone Project, Feb - May 2024
 ## Overview: 
-AudioCard is an audio-based flashcard app that uses automated speech recognition to test its users, creating a hands-free learning experience. It is currently deployed [here](https://audiocard-client-9rn8.onrender.com/welcome) 
+AudioCard is an audio-based flashcard app that uses automated speech recognition to test its users, creating a hands-free learning experience. It is currently deployed [here](https://audiocard-f5z8.onrender.com/welcome) 
 
 ## Features: 
 
